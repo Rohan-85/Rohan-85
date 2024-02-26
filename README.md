@@ -15,8 +15,6 @@ I'm Currently Working on Secret project...
 )]()
 [![React](https://img.shields.io/badge/React-%23FF0FFFF?style=flat&logo=React&logoColor=darkblue
 )]()
-[![react](https://img.shields.io/badge/MongoDB-%23ffff00?style=flat&logo=MongoDb&logoColor=red
-)]()
 [![React](https://img.shields.io/badge/NumPy-yellow?style=flat&logo=numpy&logoColor=red
 )]()
 [![mysql](https://img.shields.io/badge/My--SQL-pink?style=flat&logo=Microsoft%20SQL%20Server&logoColor=darkred
