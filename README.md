@@ -48,8 +48,6 @@ I'm Currently Working on Secret project...
 
 ⚡️ Learn and Earn...
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codewthds&show_icons=true&locale=en" alt="codewthds" /></p>
-
 For support, email rohanra8510@gmail.com  and   Don't join our you tube channel.
 
 
