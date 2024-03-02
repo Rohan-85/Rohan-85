@@ -35,7 +35,6 @@ I'm Currently Working on Secret project...
 [![apache](https://img.shields.io/badge/Apache%20-%23a42623?style=flat&logo=apache&logoColor=white
 )]()
 ## Other Common Github Profile Sections
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 🧠 I'm currently learning...
 
@@ -46,5 +45,5 @@ I'm Currently Working on Secret project...
 ⚡️ Learn and Earn...
 
 For support, email rohanra8510@gmail.com  and   Don't join our you tube channel.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
