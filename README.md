@@ -44,6 +44,6 @@ I'm Currently Working on Secret project...
 
 ⚡️ Learn and Earn...
 
-For support, email rohanra8510@gmail.com <br>
+For support, email rohanra8510@gmail.com.<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
